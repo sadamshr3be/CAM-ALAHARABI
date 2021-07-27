@@ -24,7 +24,7 @@ To convince the target to grant permissions to access the cam, the page uses a j
 
 >cd CAM-ALAHARABI
 
->chmod +x sadamalsharabi.sh ngrok
+>chmod +x sadamalsharabi.sh 
 
 >bash sadamalsharabi.sh
 
@@ -34,11 +34,11 @@ To convince the target to grant permissions to access the cam, the page uses a j
 _Happy Hacking_
 *From the admin*
 
-قناتي علـّۓ. اليوتيوب
+# قناتي علـّۓ. اليوتيوب
 
 
 https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
 
-قناتي علـّۓ  التلجرام
+# قناتي علـّۓ  التلجرام
 
 https://t.me/termuxalsharabi
