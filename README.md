@@ -35,6 +35,10 @@ _Happy Hacking_
 # قناتي علـّۓ. اليوتيوب
 
 
+# المدونة
+
+https://termuxalsharabi.blogspot.com
+
 https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
 
 # قناتي علـّۓ  التلجرام
